@@ -37,4 +37,3 @@ See [CONTRIBUTING.md](https://github.com/underdarkskies/ravencore) on the main r
 
 Code released under [the MIT license](https://github.com/underdarkskies/ravencore/blob/master/LICENSE).
 
-Copyright 2015 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
