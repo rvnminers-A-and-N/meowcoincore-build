@@ -1,6 +1,6 @@
 {
   "name": "ravencore-build",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A helper for common tasks to build ravencore modules'",
   "main": "index.js",
   "scripts": {
